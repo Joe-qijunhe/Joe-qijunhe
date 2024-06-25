@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joe-qijunhe
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently a Software Engineering student at USYD.
 - 📫 How to reach me qijun.he1@outlook.com
 
 <!---
